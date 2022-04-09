@@ -1,3 +1,6 @@
+/**
+ * Comment
+ */
 package ma.enset;
 
 /**
